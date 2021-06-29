@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.dslfoundry.xmlextension/com.dslfoundry.xmlextension.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.dslfoundry.xmlextension.build/com.dslfoundry.xmlextension.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.dslfoundry.xmlextension.buildAllScripts/com.dslfoundry.xmlextension.buildAllScripts.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
