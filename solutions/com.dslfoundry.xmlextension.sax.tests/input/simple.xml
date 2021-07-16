@@ -1,0 +1,7 @@
+<root name="This is a simple root">
+	<child1 name="Hello Child1"/>
+	<child1 name="Greetings Child1"/>
+	<child2/>
+	<child1 name="Bye Child1"/>
+	<child2/>
+</root>

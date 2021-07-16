@@ -2,9 +2,12 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.dslfoundry.xmlextension.sax.sampleLang/com.dslfoundry.xmlextension.sax.sampleLang.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.dslfoundry.xmlextension.sax/com.dslfoundry.xmlextension.sax.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/com.dslfoundry.xmlextension/com.dslfoundry.xmlextension.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/com.dslfoundry.xmlextension.build/com.dslfoundry.xmlextension.build.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/com.dslfoundry.xmlextension.buildAllScripts/com.dslfoundry.xmlextension.buildAllScripts.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.dslfoundry.xmlextension.sax.tests/com.dslfoundry.xmlextension.sax.tests.msd" folder="" />
     </projectModules>
   </component>
 </project>
