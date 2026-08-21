@@ -163,8 +163,14 @@
         <ref role="398BVh" node="23LEVbRX3hP" resolve="mps.home" />
       </node>
     </node>
+    <node concept="398rNT" id="1aTIGqo$ccC" role="1l3spd">
+      <property role="TrG5h" value="mps_home" />
+    </node>
     <node concept="398rNT" id="23LEVbRX3hP" role="1l3spd">
       <property role="TrG5h" value="mps.home" />
+      <node concept="398BVA" id="1aTIGqo$ccE" role="398pKh">
+        <ref role="398BVh" node="1aTIGqo$ccC" resolve="mps_home" />
+      </node>
     </node>
     <node concept="398rNT" id="4FIECQpNJnG" role="1l3spd">
       <property role="TrG5h" value="xmlextension.home" />
